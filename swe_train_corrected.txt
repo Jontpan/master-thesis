@@ -77,7 +77,7 @@ Hur gör jag bränsletegel från återvunnen tidningspapper?
 Vilken målare från 1800-talet dog på Marquesasöarna?
 Corpus callosum finns i vilken del av kroppen?
 Hur loggar jag in på startsidan för huvudkontoret US European Command?
-Vilket land ockuperade nazisterna för 1, CD NNS IN NNP NNP NNP.
+Vilket land ockuperade nazisterna först?
 Vad är Nebraskas mest värdefulla resurs?
 Hur många arter av den stora vithajen finns det?
 Vad är huvudlössens ursprung?
@@ -142,7 +142,7 @@ Var är Orinoco?
 Vad hette "Little Rascals" hunden?
 Vilken stad har Penn's Landing, vid floden Delaware?
 Vilken Broadway-musikal inspirerades av Cervantes Don Quijote?
-Vad är ordets ursprung, JJ.
+Vad är ursprunget av ordet katt?
 Hur många gisslan dödades i Entebbe-razzian?
 Hur kan du höja din IQ?
 Vad står INRI för när det används på Jesu kors?
@@ -244,14 +244,14 @@ Hur många sydamerikanska länder har bokstaven Z i sina namn?
 Vad är innehållet i proposition 98?
 Var föddes George Washington?
 Hur många människor på marken dödades från bombningen av Pan Am Flight 103 över Lockerbie, Skottland, 21 december, CD.
-Vem skrev NN DT NNP NNP "?
+Vem skrev "To Kill a Mockingbird"?
 Vad är paracetamol?
 Vilka är krafterna och svagheterna i Green Lantern's ring?
-Vilken myggsticka drar blod, DT NN CC DT NN.
+Vilken mygga suger blod och överför malaria?
 När byggdes det första stålverket i USA?
 Vilken diminutiv amerikansk gymnast stal showen vid OS 1984?
 Vad är ursprunget till namnet Katie?
-Vilka skolor i Washington, DC NN NN VBP NN NN NN NN.
+Vilka skolor i Washington har vunnit pris för bästa skola?
 När upprättades Berlinmuren?
 Vem är Terrence Malick?
 Vilket instrument är Ray Charles mest känd för att spela?
@@ -370,7 +370,7 @@ Hur fungerar en kopiator?
 Vad är Mississippiflodens hastighet?
 Vem sa om Super Bowl III 1969: "Vi vinner - jag garanterar det"?
 Vad heter Dudley Do-Rights häst?
-Vem förklarade: "Jag är nere på horor och jag kan inte sluta riva dem"?
+Vem förklarade: "Jag tycker om horor och jag kan inte sluta"?
 Var kommer choklad ifrån?
 Vilket TV-spelprogram såg en tävlande en gång erkänna att han plockar tårna i duschen?
 Vilken sovjetisk ledare ägde en Rolls-Royce?
@@ -978,7 +978,7 @@ Vad är den genomsnittliga kostnaden för fyra års läkarutbildning?
 Vad skapar Gud i Bibelns första mening?
 Vilken av följande män var inte gift med Rita Hayworth?
 Vad är det aktuella biljettpriset från Kairo till Barbados?
-Vad betyder NN O när det används som ett prefix i irländska efternamn?
+Vad betyder Mc när det används som ett prefix i irländska efternamn?
 Hur hittar du oxidationsnummer?
 Vad är det statliga smeknamnet för Mississippi?
 Vad är Black Hills, South Dakota mest känt för?
@@ -1118,7 +1118,7 @@ Vilken stad i Colorado äger sin egen glaciär?
 Vad är historien om "toasten"?
 Vad hette den protestantiska revolten mot påvens överlägsenhet?
 Vad är en arabisk rem?
-Hur mycket kostar det, genomsnitt eller vad som helst som är tillgängligt, att producera och skicka skräppostkataloger i USA ?, DT CD NN NN,
+Hur mycket kostar det, genomsnitt eller vad som helst som är tillgängligt, att producera och skicka skräppostkataloger i USA?
 Vem är FN: s nuvarande generalsekreterare?
 Vem tillhandahåller telefontjänster i Orange County, Kalifornien?
 Var har marsvin sitt ursprung?
@@ -1173,7 +1173,7 @@ Vilka är de fyra naturliga hjälpmedel som används vid ridning?
 Vilket kontinentnamn visas i det övre vänstra hörnet av en Budweiser-etikett?
 Vem var krigsminister i inbördeskriget under slaget vid Gettysburg?
 Vem slog Bobby Fischer för att vinna världsmästerskapet i schack?
-Hur utrotar du bin som finns i väggarna i ditt hem? Kommer biägg vara kvar under vintern?
+Hur utrotar du bin som finns i väggarna i ditt hem?
 Var kan jag få information och statistik om länder och nationer?
 Namnge ett gaeliskt språk.
 Vilken dag är 13 augusti 1971?
@@ -1424,7 +1424,7 @@ Namnge Li'l Abners favoritindiska dryck.
 Vilka är några viktiga händelser från 1830-talet?
 Irakierna inledde sin attack mot Kuwait vilken dag?
 Vilken bokstav pryder Rwandas flagga?
-Vad gjorde 8, CD NNS VBP TILL VB NNP POS NN.
+Vad tillverkar en möbeltillverkare?
 Vad är Gud?
 Vilket lands nordligaste stad är Darwin?
 Vilket ljud förbiser Olympia, Washington?
@@ -5030,7 +5030,7 @@ Vilket berömt man-och-fru-team gjorde radioannonser för Blue Nun-vin?
 Hur många gånger har Harold Stassen tillkännagivit en kandidatur för Vita huset?
 Vad är flasklock med presidenternas bilder inuti värda?
 Var kan jag hitta historien om det ungerska språket?
-Varför fungerar USA:s faxmaskiner inte i Storbritannien, NNP?
+Varför fungerar USA:s faxmaskiner inte i Storbritannien?
 Vilken cigarett är "en helt ny värld"?
 Vem trampade genom Florida och letade efter Fountain of Youth?
 1990, vilken veckodag föll julen på?
