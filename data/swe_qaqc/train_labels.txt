@@ -5812,7 +5812,7 @@ ENTY:techmeth
 ENTY:dismed
 ENTY:techmeth
 ENTY:techmeth
-ENTY:tehcmeth
+ENTY:techmeth
 DESC:def
 ENTY:other
 DESC:def
