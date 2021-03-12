@@ -1,0 +1,501 @@
+,text,verbose label,course label,fine label
+0,Hur långt är det från Denver till Aspen?,NUM:dist,3,40
+1,"Vilket län ligger Modesto, Kalifornien, i?",LOC:city,4,32
+2,Vem var Galileo?,HUM:desc,5,28
+3,Vad är en atom?,DESC:def,0,2
+4,När blev Hawaii en stat?,NUM:date,3,39
+5,Hur hög är Sears Building?,NUM:dist,3,40
+6,George Bush köpte en liten andel i vilket basebollag?,HUM:gr,5,29
+7,Vad är Australiens nationella blomma?,ENTY:plant,2,18
+8,Varför blir månen orange?,DESC:reason,0,5
+9,Vad är autism?,DESC:def,0,2
+10,Vilken stad hade en världsmässa 1900?,LOC:city,4,32
+11,Vilken persons huvud är på en krona?,HUM:ind,5,30
+12,Vad är den genomsnittliga vikten för en gul labrador?,NUM:weight,3,49
+13,Vem var den första mannen som flög över Stilla havet?,HUM:ind,5,30
+14,När blev Idaho en stat?,NUM:date,3,39
+15,Hur lång är livslängden för syrsor?,NUM:other,3,43
+16,Vilken metall har den högsta smältpunkten?,ENTY:substance,2,22
+17,Vem utvecklade vaccinationen mot polio?,HUM:ind,5,30
+18,Vad är epilepsi?,DESC:def,0,2
+19,Vilket år sjönk Titanic?,NUM:date,3,39
+20,Vem var den första amerikanen som promenerade i rymden?,HUM:ind,5,30
+21,Vad är en biosfär?,DESC:def,0,2
+22,Vilken flod i USA är känd som Big Muddy?,LOC:other,4,35
+23,Vad är bipolär sjukdom?,DESC:def,0,2
+24,Vad är kolesterol?,DESC:def,0,2
+25,Vem utvecklade Macintosh-datorn?,HUM:ind,5,30
+26,Vad är koffein?,DESC:def,0,2
+27,Vilken imaginär linje är halvvägs mellan nord- och sydpolen?,LOC:other,4,35
+28,Var är John Wayne flygplats?,LOC:other,4,35
+29,På vilket halvklot ligger Filippinerna?,LOC:other,4,35
+30,Vad är hästarnas genomsnittliga hastighet vid Kentucky Derby?,NUM:speed,3,46
+31,Var ligger Rocky Mountains?,LOC:mount,4,34
+32,Vad är ryggradslösa djur?,DESC:def,0,2
+33,Vad är temperaturen i mitten av jorden?,NUM:temp,3,47
+34,När blev John F. Kennedy vald som president?,NUM:date,3,39
+35,Hur gammal var Elvis Presley när han dog?,NUM:period,3,45
+36,Var ligger Orinoco-floden?,LOC:other,4,35
+37,Hur långt är servicelinjen från nätet i tennis?,NUM:dist,3,40
+38,Hur mycket fiber borde man äta per dag?,NUM:count,3,38
+39,Hur många Stora sjöar finns det?,NUM:count,3,38
+40,Material som kallas linne är tillverkat av vilken växt?,ENTY:plant,2,18
+41,Vad är teflon?,DESC:def,0,2
+42,Vad är amitriptylin?,DESC:def,0,2
+43,Vad är en shaman?,DESC:def,0,2
+44,Vad är det riktiga namnet på en kvinnlig valross?,ENTY:animal,2,6
+45,Vad heter en grupp kalkoner?,ENTY:animal,2,6
+46,Hur länge sov Rip Van Winkle?,NUM:period,3,45
+47,Vad är triglycerider?,DESC:def,0,2
+48,Hur många liter i en gallon?,NUM:count,3,38
+49,Vad heter chokladföretaget i San Francisco?,HUM:gr,5,29
+50,Vad är amfibier?,DESC:def,0,2
+51,Vem upptäckte röntgen?,HUM:ind,5,30
+52,"Vilken komikers signaturrad är ""Kan vi prata""?",HUM:ind,5,30
+53,Vad är fibromyalgi?,DESC:def,0,2
+54,Vad görs med slitna eller föråldrade flaggor?,DESC:desc,0,3
+55,Vad betyder cc i motorer?,DESC:def,0,2
+56,När dog Elvis Presley?,NUM:date,3,39
+57,Vad är huvudstaden i Jugoslavien?,LOC:city,4,32
+58,Var ligger Milano?,LOC:city,4,32
+59,Vad är hastigheten kolibrier flyger i?,NUM:speed,3,46
+60,Vad är den äldsta staden i USA?,LOC:city,4,32
+61,Vad var WC Fields riktiga namn?,HUM:ind,5,30
+62,"Vilken flod flyter mellan Fargo, North Dakota och Moorhead, Minnesota?",LOC:other,4,35
+63,Vad äter fladdermöss?,ENTY:food,2,13
+64,I vilken stat ägde slaget vid Bighorn rum?,LOC:state,4,36
+65,Vem var Abraham Lincoln?,HUM:desc,5,28
+66,Vad kallas en nyfödd känguru?,ENTY:termeq,2,25
+67,Vad är spindelvener?,DESC:def,0,2
+68,Vilken dag och månad dog John Lennon?,NUM:date,3,39
+69,Vilket sund skiljer Nordamerika från Asien?,LOC:other,4,35
+70,Vad är befolkningen i Seattle?,NUM:other,3,43
+71,Hur mycket kostade en biljett till Titanic?,NUM:money,3,41
+72,Vad är den största staden i världen?,LOC:city,4,32
+73,"Vilken amerikansk kompositör skrev musiken till ""West Side Story""?",HUM:ind,5,30
+74,Var ligger Mall of the America?,LOC:other,4,35
+75,Vad är pH-skalan?,DESC:def,0,2
+76,Vilken typ av valuta används i Australien?,ENTY:currency,2,10
+77,"Hur lång är Gateway Arch i St. Louis, MO?",NUM:dist,3,40
+78,Hur mycket väger den mänskliga vuxna kvinnliga hjärnan?,NUM:weight,3,49
+79,Vem var den första guvernören i Alaska?,HUM:ind,5,30
+80,Vad är ett prisma?,DESC:def,0,2
+81,När var den första levertransplantationen?,NUM:date,3,39
+82,Vem valdes till president i Sydafrika 1994?,HUM:ind,5,30
+83,Vad är befolkningen i Kina?,NUM:other,3,43
+84,När föddes Rosa Parks?,NUM:date,3,39
+85,Varför är ett nyckelpiga till hjälp?,DESC:reason,0,5
+86,Vad är amoxicillin?,DESC:def,0,2
+87,Vem var den första kvinnliga representanten från USA?,HUM:ind,5,30
+88,Vad är xerofyter?,DESC:def,0,2
+89,Vilket land kom Ponce de Leon från?,LOC:country,4,33
+90,US Treasury Department utfärdade först pappersvaluta för USA under vilket krig?,ENTY:event,2,12
+91,Vad är desktop publishing?,DESC:def,0,2
+92,Vad är temperaturen på solytan?,NUM:temp,3,47
+93,Vilket år gick Kanada med i FN?,NUM:date,3,39
+94,Vad är det äldsta universitetet i USA?,HUM:gr,5,29
+95,Var är Prince Edward Island?,LOC:other,4,35
+96,"Kvicksilver, vilket år upptäcktes det?",NUM:date,3,39
+97,Vad är kryogenik?,DESC:def,0,2
+98,Vad är korallrev?,DESC:def,0,2
+99,Vilken är den längsta basebollvinstserien i major league?,ENTY:other,2,17
+100,Vad är neurologi?,DESC:def,0,2
+101,Vem uppfann miniräknaren?,HUM:ind,5,30
+102,Hur mäter man jordbävningar?,DESC:manner,0,4
+103,Vem är Duke Ellington?,HUM:desc,5,28
+104,"Vilket län ligger Phoenix, AZ i?",LOC:city,4,32
+105,Vad är en mikron?,DESC:def,0,2
+106,"Solens kärna, vad är temperaturen?",NUM:temp,3,47
+107,Vad är Ohio State Bird?,ENTY:animal,2,6
+108,När föddes William Shakespeares tvillingar?,NUM:date,3,39
+109,Vad är den högsta dammen i USA?,LOC:other,4,35
+110,Vilken färg har en giftpilgroda?,ENTY:color,2,8
+111,Vad är akupunktur?,DESC:def,0,2
+112,Vad är längden på kustlinjen i delstaten Alaska?,NUM:dist,3,40
+113,Vad heter Neil Armstrongs fru?,HUM:ind,5,30
+114,Vad är Hawaii statsblomma?,ENTY:plant,2,18
+115,Vem vann fru American 1989?,HUM:ind,5,30
+116,När kraschade Hindenberg?,NUM:date,3,39
+117,Vilket mineral hjälper till att förhindra osteoporos?,ENTY:substance,2,22
+118,Vad var det sista året som Chicago Cubs vann World Series?,NUM:date,3,39
+119,Var ligger Perth?,LOC:other,4,35
+120,Vilket år började andra världskriget?,NUM:date,3,39
+121,Vad är diametern på en golfboll?,NUM:dist,3,40
+122,Vad är en förmörkelse?,DESC:def,0,2
+123,Vem upptäckte Amerika?,HUM:ind,5,30
+124,Vad är jordens diameter?,NUM:dist,3,40
+125,Vilken president var ogift?,HUM:ind,5,30
+126,Hur bred är Vintergatan?,NUM:dist,3,40
+127,Under vilken säsong uppstår de flesta åskväder?,NUM:date,3,39
+128,Vad är Wimbledon?,DESC:def,0,2
+129,Vad är graviditetsperioden för en katt?,NUM:period,3,45
+130,Hur långt är en sjömil?,NUM:dist,3,40
+131,Vem var avskaffaren som ledde razzian på Harper's Ferry 1859?,HUM:ind,5,30
+132,Vad betyder målpuls?,DESC:def,0,2
+133,Vad var den första satelliten som gick ut i rymden?,ENTY:product,2,19
+134,Vad är utestängning?,DESC:def,0,2
+135,Vad är den största fellinjen nära Kentucky?,ENTY:other,2,17
+136,Var ligger Holland Tunnel?,LOC:other,4,35
+137,"Vem skrev psalmen ""Amazing Grace""?",HUM:ind,5,30
+138,Vilken position spelade Willie Davis i baseboll?,HUM:title,5,31
+139,Vad är blodplättar?,DESC:def,0,2
+140,Vad är avgångsvederlag?,DESC:def,0,2
+141,Vad heter Roy Rogers hund?,ENTY:animal,2,6
+142,Var är nationalarkivet?,LOC:other,4,35
+143,Vad heter en baby kalkon?,ENTY:animal,2,6
+144,Vad är poliomyelit?,DESC:def,0,2
+145,Vad är det längsta benet i människokroppen?,ENTY:body,2,7
+146,Vem är en tysk filosof?,HUM:ind,5,30
+147,Vilka var Christopher Columbus tre fartyg?,ENTY:veh,2,26
+148,Vad betyder Phi Beta Kappa?,DESC:def,0,2
+149,Vad är nikotin?,DESC:def,0,2
+150,Vad är ett annat namn för vitamin B1?,ENTY:termeq,2,25
+151,Vem upptäckte radium?,HUM:ind,5,30
+152,Vad är solfläckar?,DESC:def,0,2
+153,När koloniserades Algeriet?,NUM:date,3,39
+154,Vilket basebollag var det första som gjorde nummer till sin uniform?,HUM:gr,5,29
+155,Vilken kontinent ligger Egypten i?,LOC:other,4,35
+156,Vad är huvudstaden i Mongoliet?,LOC:city,4,32
+157,Vad är nanoteknik?,DESC:def,0,2
+158,I slutet av 1700-talet användes brittiska fångar för att populera vilken koloni?,LOC:other,4,35
+159,Vilken delstat är det geografiska centrumet för de lägre 48 staterna?,LOC:state,4,36
+160,Vad är en trubbig vinkel?,DESC:def,0,2
+161,Vad är polymerer?,DESC:def,0,2
+162,När är orkansäsongen i Karibien?,NUM:date,3,39
+163,Var ligger vulkanen Mauna Loa?,LOC:other,4,35
+164,Vad är en annan astronomisk term för norrsken?,ENTY:termeq,2,25
+165,Vilken halvö är Spanien en del av?,LOC:other,4,35
+166,När föddes Lyndon B. Johnson?,NUM:date,3,39
+167,Vad är paracetamol?,DESC:def,0,2
+168,Vilken delstat har minst regn per år?,LOC:state,4,36
+169,Vem grundade Amerikanska Röda Korset?,HUM:ind,5,30
+170,Vilket år blev Milwaukee Braves Atlanta Braves?,NUM:date,3,39
+171,Hur snabbt absorberas alkohol?,NUM:speed,3,46
+172,När är sommarsolståndet?,NUM:date,3,39
+173,Vad är supernova?,DESC:def,0,2
+174,Var ligger Shawnee National Forest?,LOC:other,4,35
+175,"Vilket amerikanskt stats motto är ""Live free or Die""?",LOC:state,4,36
+176,Var ligger Louvren?,LOC:other,4,35
+177,När utfärdades det första frimärket?,NUM:date,3,39
+178,Vilka primärfärger blandar man för att göra orange?,ENTY:color,2,8
+179,Hur långt är det från Pluto till solen?,NUM:dist,3,40
+180,I vilken vattenmassa befinner sig Kanarieöarna?,LOC:other,4,35
+181,Vad är neuropati?,DESC:def,0,2
+182,Var ligger Eufratfloden?,LOC:other,4,35
+183,Vad är kryptografi?,DESC:def,0,2
+184,Vad består naturgas av?,ENTY:substance,2,22
+185,Vem är Kanadas premiärminister?,HUM:ind,5,30
+186,Vilken fransk härskare besegrades i slaget vid Waterloo?,HUM:ind,5,30
+187,Vad är leukemi?,DESC:def,0,2
+188,Var dog Howard Hughes?,LOC:other,4,35
+189,Vad är födelsestenen för juni?,ENTY:substance,2,22
+190,Vad är momsen i Minnesota?,ENTY:other,2,17
+191,Vad är avståndet i miles från jorden till solen?,NUM:dist,3,40
+192,Vad är den genomsnittliga livslängden för en kyckling?,NUM:period,3,45
+193,När öppnades den första Wal-Mart-butiken?,NUM:date,3,39
+194,Vad är relativ luftfuktighet?,DESC:def,0,2
+195,Vilken stad har postnummer 35824?,LOC:city,4,32
+196,Vilken valuta används i Algeriet?,ENTY:currency,2,10
+197,Vem uppfann rockringen?,HUM:ind,5,30
+198,Vad var den mest populära leksaken år 1957?,ENTY:product,2,19
+199,Vad är pastrami gjord av?,ENTY:substance,2,22
+200,Vad heter satelliten som Sovjetunionen skickade ut i rymden 1957?,ENTY:product,2,19
+201,"Vilken stadstidning heter ""The Enquirer""?",LOC:city,4,32
+202,Vem uppfann slinkyn?,HUM:ind,5,30
+203,Vad heter djuren som inte har ryggrad?,ENTY:animal,2,6
+204,Vad är koppars smältpunkt?,NUM:other,3,43
+205,Var ligger vulkanen Olympus Mons?,LOC:other,4,35
+206,Vem var USA:s 23:e president?,HUM:ind,5,30
+207,Vad är den genomsnittliga kroppstemperaturen?,NUM:temp,3,47
+208,Vad gör en defibrillator?,DESC:desc,0,3
+209,Vad är effekten av surt regn?,DESC:desc,0,3
+210,Vilket år avskaffade USA uttagningen till militärtjänst?,NUM:date,3,39
+211,Hur snabbt är ljusets hastighet?,NUM:speed,3,46
+212,I vilken provins ligger Montreal?,LOC:state,4,36
+213,Vilken New York City-struktur kallas också Twin Towers?,LOC:other,4,35
+214,Vad är svamp?,DESC:def,0,2
+215,Vilket är det vanligaste språket i Nederländerna?,ENTY:lang,2,15
+216,Vad är natriumklorid?,DESC:def,0,2
+217,Vad heter prickarna på dominos?,ENTY:termeq,2,25
+218,Hur många pund per ton?,NUM:count,3,38
+219,Vad är influensa?,DESC:def,0,2
+220,Vad är ozonnedbrytning?,DESC:def,0,2
+221,Vilket år målades Mona Lisa?,NUM:date,3,39
+222,"Vad betyder ""Sitting Shiva""?",DESC:def,0,2
+223,"Vad är elproduktionen i Madrid, Spanien?",ENTY:other,2,17
+224,Vilket bergskedja i Nordamerika sträcker sig från Maine till Georgia?,LOC:mount,4,34
+225,Vad är plast tillverkat av?,ENTY:substance,2,22
+226,Vad är befolkningen i Nigeria?,NUM:other,3,43
+227,Vad gör din mjälte?,DESC:desc,0,3
+228,Var är Grand Canyon?,LOC:other,4,35
+229,Vem uppfann telefonen?,HUM:ind,5,30
+230,Vilket år köpte USA Alaska?,NUM:date,3,39
+231,Vad heter Irlands ledare?,HUM:ind,5,30
+232,Vad är fenylalanin?,DESC:def,0,2
+233,Hur många liter vatten finns det i en kubikfot?,NUM:count,3,38
+234,Vilka är de två husen i lagstiftningsgrenen?,ENTY:other,2,17
+235,Vad är ekolod?,DESC:def,0,2
+236,Var bor de flesta i Polen?,LOC:other,4,35
+237,Vad är fosfor?,DESC:def,0,2
+238,Var ligger Stillhetens hav?,LOC:other,4,35
+239,Hur snabbt är ljud?,NUM:speed,3,46
+240,I vilken fransk provins produceras cognac?,LOC:state,4,36
+241,Vad är alla hjärtans dag?,DESC:def,0,2
+242,Vad orsakar grått hår?,DESC:reason,0,5
+243,Vad är högt blodtryck?,DESC:def,0,2
+244,Vad är bandbredd?,DESC:def,0,2
+245,Vilken är den längsta hängbroen i USA?,LOC:other,4,35
+246,Vad är en parasit?,DESC:def,0,2
+247,Vad är bostadskapital?,DESC:def,0,2
+248,Vad gör meteorologer?,DESC:desc,0,3
+249,Vad är kriteriet för att vara juridiskt blind?,ENTY:other,2,17
+250,Vem är den längsta mannen i världen?,HUM:ind,5,30
+251,Vilka är tvillingstäderna?,LOC:city,4,32
+252,Vad uppfann Edward Binney och Howard Smith 1903?,ENTY:other,2,17
+253,Vad är frihetsgudinnan gjord av?,ENTY:substance,2,22
+254,Vad är pilates?,DESC:def,0,2
+255,"Vilken planet är känd som den ""röda"" planeten?",LOC:other,4,35
+256,Vad är djupet på Nilen?,NUM:dist,3,40
+257,Vad heter den färgglada koreanska traditionella klänningen?,ENTY:termeq,2,25
+258,Vad är Mardi Gras?,DESC:def,0,2
+259,Mexikanska pesos är värda vad i amerikanska dollar?,NUM:money,3,41
+260,Vem var den första afroamerikan som spelade för Brooklyn Dodgers?,HUM:ind,5,30
+261,Vem var Kanadas första premiärminister?,HUM:ind,5,30
+262,Hur många amiraler finns det i US Navy?,NUM:count,3,38
+263,Vilket instrument spelade Glenn Miller?,ENTY:instru,2,14
+264,Hur gammal var Joan of Arc när hon dog?,NUM:period,3,45
+265,"Vad betyder ordet ""fortnight""?",DESC:def,0,2
+266,Vad är dianetik?,DESC:def,0,2
+267,Vad är huvudstaden i Etiopien?,LOC:city,4,32
+268,Hur länge är en elefant gravid?,NUM:period,3,45
+269,Hur dog Janice Joplin?,DESC:manner,0,4
+270,Vad är det primära språket på Island?,ENTY:lang,2,15
+271,Vad är skillnaden mellan AM-radiostationer och FM-radiostationer?,DESC:desc,0,3
+272,Vad är osteoporos?,DESC:def,0,2
+273,Vem var den första kvinnliga guvernören i USA?,HUM:ind,5,30
+274,Vad är peyote?,DESC:def,0,2
+275,Vad används matstrupen till?,DESC:reason,0,5
+276,Vad är viskositet?,DESC:def,0,2
+277,Vilket år blev Oklahoma en stat?,NUM:date,3,39
+278,Vad är förkortningen för Texas?,ABBR:abb,1,0
+279,Vad är en spegel gjord av?,ENTY:substance,2,22
+280,Var på kroppen är en oxfordmössa buren?,LOC:other,4,35
+281,Vad hette JFKs fru?,HUM:ind,5,30
+282,Vad står IV för?,ABBR:exp,1,1
+283,Vad är kanaltunneln?,DESC:def,0,2
+284,Var är Hitler begravd?,LOC:other,4,35
+285,Vad är antacida?,DESC:def,0,2
+286,Vad är lungfibros?,DESC:def,0,2
+287,Vad är Quaaludes?,DESC:def,0,2
+288,Vad är naproxen?,DESC:def,0,2
+289,Vad är strep hals?,DESC:def,0,2
+290,Vad är den största staden i USA?,LOC:city,4,32
+291,Vad är mul- och klövsjuka?,ENTY:dismed,2,11
+292,Hur lång livslängd har en dollarsedel?,NUM:other,3,43
+293,Vad kallar du en professionell kartläggare?,ENTY:termeq,2,25
+294,Vad är aboriginer?,DESC:def,0,2
+295,Vad är hybridisering?,DESC:def,0,2
+296,Vilken färg är indigo?,ENTY:color,2,8
+297,Hur gammal måste du vara för att hyra en bil i Italien?,NUM:period,3,45
+298,Vad mäter en barometer?,ENTY:other,2,17
+299,Vilken färg har giraffens tunga?,ENTY:color,2,8
+300,Vad står USPS för?,ABBR:exp,1,1
+301,Vilket år strejkade NFL?,NUM:date,3,39
+302,Vad är solvind?,DESC:def,0,2
+303,Vilket datum landade Neil Armstrong på månen?,NUM:date,3,39
+304,När bombades Hiroshima?,NUM:date,3,39
+305,Var ligger Savannah River?,LOC:other,4,35
+306,Vem var den första kvinnan som dödades i Vietnamkriget?,HUM:ind,5,30
+307,Vilken planet har det starkaste magnetfältet av alla planeter?,LOC:other,4,35
+308,Vem är guvernören i Alaska?,HUM:ind,5,30
+309,Vilket år tog Mussolini makten i Italien?,NUM:date,3,39
+310,Vad är Persiens huvudstad?,LOC:city,4,32
+311,Var ligger Eiffeltornet?,LOC:other,4,35
+312,Hur många hjärtan har en bläckfisk?,NUM:count,3,38
+313,Vad är lunginflammation?,DESC:def,0,2
+314,Vad är den djupaste sjön i USA?,LOC:other,4,35
+315,Vad är en bränslecell?,DESC:def,0,2
+316,Vem var den första amerikanska presidenten som kom till TV?,HUM:ind,5,30
+317,Var ligger Little League Museum?,LOC:other,4,35
+318,Vilka är de två typerna av tvillingar?,ENTY:other,2,17
+319,Vilken är den ljusaste stjärnan?,LOC:other,4,35
+320,Vad är diabetes?,DESC:def,0,2
+321,När sköts president Kennedy?,NUM:date,3,39
+322,Vad är TMJ?,ABBR:exp,1,1
+323,Vilken färg har yakmjölk?,ENTY:color,2,8
+324,Vilket datum föddes Dwight D. Eisenhower?,NUM:date,3,39
+325,Vad betyder den tekniska termen ISDN?,ABBR:exp,1,1
+326,Varför är solen gul?,DESC:reason,0,5
+327,Vad är omräkningskursen mellan dollar och pund?,NUM:money,3,41
+328,När föddes Abraham Lincoln?,NUM:date,3,39
+329,Vad är Vintergatan?,DESC:def,0,2
+330,Vad är mögel?,DESC:def,0,2
+331,Vilket år föddes Mozart?,NUM:date,3,39
+332,Vad heter en grupp grodor?,ENTY:animal,2,6
+333,Vad heter William Penns skepp?,ENTY:veh,2,26
+334,Vad är guldets smältpunkt?,NUM:other,3,43
+335,Vad är Vita husets gatuadress?,LOC:other,4,35
+336,Vad är gryn?,DESC:def,0,2
+337,Vilken frukt är Melba sås gjord av?,ENTY:food,2,13
+338,Vad är Ursa Major?,DESC:def,0,2
+339,Hur stor är andelen vatteninnehåll i människokroppen?,NUM:perc,3,44
+340,Hur mycket väger vatten?,NUM:weight,3,49
+341,Vad hette president Lyndon Johnsons reformprogram?,ENTY:event,2,12
+342,"Vad är mordprocenten i Windsor, Ontario?",NUM:perc,3,44
+343,Vem är den enda presidenten som har två mandatperioder som inte är i följd?,HUM:ind,5,30
+344,Vad är Australiens befolkning?,NUM:other,3,43
+345,Vem målade taket på Sixtinska kapellet?,HUM:ind,5,30
+346,Namnge en stimulant.,ENTY:dismed,2,11
+347,Vilken är effekten av vulkaner på klimatet?,DESC:desc,0,3
+348,Vilket år började Andy Griffith-showen?,NUM:date,3,39
+349,Vad är surt regn?,DESC:def,0,2
+350,Vad är datumet för Mexikos självständighet?,NUM:date,3,39
+351,Var ligger Lake Champlain?,LOC:other,4,35
+352,Vad är Illinois statsblomma?,ENTY:plant,2,18
+353,Vilken är Marylands statsfågel?,ENTY:animal,2,6
+354,Vad är Quicksilver?,DESC:def,0,2
+355,"Vem skrev ""The Divine Comedy""?",HUM:ind,5,30
+356,Vad är ljusets hastighet?,NUM:speed,3,46
+357,Vad är bredden på en fotbollsplan?,NUM:dist,3,40
+358,Varför i tennis kallas nollpoäng kärlek?,DESC:reason,0,5
+359,Vilken typ av hund var Toto i trollkarlen från Oz?,ENTY:animal,2,6
+360,Vad är en sköldkörtel?,DESC:def,0,2
+361,Vad betyder ciao?,DESC:def,0,2
+362,Vilken är den enda artären som transporterar blått blod från hjärtat till lungorna?,ENTY:body,2,7
+363,Hur ofta bryter Old Faithful ut i Yellowstone National Park?,NUM:other,3,43
+364,Vad är ättiksyra?,DESC:def,0,2
+365,"Vad är höjden över havet i St. Louis, MO?",NUM:dist,3,40
+366,Vilken färg blir lakmuspapper när det kommer i kontakt med en stark syra?,ENTY:color,2,8
+367,Vilka är färgerna på den tyska flaggan?,ENTY:color,2,8
+368,Vad är Moulin Rouge?,DESC:def,0,2
+369,Vilken sovjetisk hamn ligger vid Svarta havet?,LOC:other,4,35
+370,Vad är silvers atomvikt?,NUM:weight,3,49
+371,Vilken valuta använder de i Brasilien?,ENTY:currency,2,10
+372,Vad är patogener?,DESC:def,0,2
+373,Vad är galna ko-sjukan?,DESC:def,0,2
+374,Namnge en mat som innehåller mycket zink.,ENTY:food,2,13
+375,När gick North Carolina in i unionen?,NUM:date,3,39
+376,Var bor äppelsniglar?,LOC:other,4,35
+377,Vad är etik?,DESC:def,0,2
+378,Vad står HLR för?,ABBR:exp,1,1
+379,Vad är en livränta?,DESC:def,0,2
+380,Vem dödade John F. Kennedy?,HUM:ind,5,30
+381,Vem var USA:s första vice president?,HUM:ind,5,30
+382,Vilken födelsesten är turkos?,ENTY:substance,2,22
+383,Vem var den första amerikanska presidenten som körde i en bil till sin invigning?,HUM:ind,5,30
+384,Hur gammal var USA:s yngsta president?,NUM:period,3,45
+385,När föddes Ulysses S. Grant?,NUM:date,3,39
+386,Vad är muskeldystrofi?,DESC:def,0,2
+387,Vem bodde i slottet Neuschwanstein?,HUM:ind,5,30
+388,Vad är propylenglykol?,DESC:def,0,2
+389,Vad är en panikstörning?,DESC:def,0,2
+390,Vem uppfann Polaroid-kameran?,HUM:ind,5,30
+391,Vad är cancerframkallande?,DESC:def,0,2
+392,Vad kallas en lejonunge?,ENTY:animal,2,6
+393,Hur stor är världens befolkning?,NUM:other,3,43
+394,Vad är nepotism?,DESC:def,0,2
+395,Vad är gjutning?,DESC:def,0,2
+396,Vad är närsynthet?,DESC:def,0,2
+397,Vad är momssatsen i New York?,NUM:other,3,43
+398,Hur stor andel av världens befolkning är utvecklingsländerna?,NUM:perc,3,44
+399,Vad är det fjärde högsta berget i världen?,LOC:mount,4,34
+400,Vad är Shakespeares smeknamn?,HUM:ind,5,30
+401,Vad är det tyngsta naturligt förekommande elementet?,ENTY:substance,2,22
+402,När är fars dag?,NUM:date,3,39
+403,Vad står förkortningen NASA för?,ABBR:exp,1,1
+404,Hur lång är Columbia River i miles?,NUM:dist,3,40
+405,"Vilken stadstidning heter ""The Star""?",LOC:city,4,32
+406,Vad är koldioxid?,DESC:def,0,2
+407,Var är Mason / Dixon-linjen?,LOC:other,4,35
+408,När var Boston tea party?,NUM:date,3,39
+409,Vad är ämnesomsättning?,DESC:def,0,2
+410,"Vilken USA-president dök upp på ""Laugh-In""?",HUM:ind,5,30
+411,Vad är cigaretter gjorda av?,ENTY:substance,2,22
+412,Vad är Zimbabwes huvudstad?,LOC:city,4,32
+413,Vad står NASA för?,ABBR:exp,1,1
+414,Vilken är Michigans statsblomma?,ENTY:plant,2,18
+415,Vad är halvledare?,DESC:def,0,2
+416,Vad är kärnkraft?,DESC:def,0,2
+417,Vad är en tsunami?,DESC:def,0,2
+418,Vem är kongressledamoten från Texas i försvarskommittén?,HUM:ind,5,30
+419,Vem var president år 1913?,HUM:ind,5,30
+420,När var den första njurtransplantationen?,NUM:date,3,39
+421,Vilka är Kanadas två territorier?,LOC:other,4,35
+422,Vad heter planet Lindbergh flög solo över Atlanten i?,ENTY:veh,2,26
+423,Vad är folkmord?,DESC:def,0,2
+424,Vilken kontinent ligger Argentina i?,LOC:other,4,35
+425,Vilket kloster plundrades av vikingar i slutet av 700-talet?,ENTY:other,2,17
+426,Vad är en jordbävning?,DESC:def,0,2
+427,Var ligger den högsta berg-och dalbanan?,LOC:other,4,35
+428,Vad är enzymer?,DESC:def,0,2
+429,Vem upptäckte syre?,HUM:ind,5,30
+430,"Vad är ""bangers and mash""?",DESC:def,0,2
+431,Vad heter tigern vid Louisiana State University?,ENTY:animal,2,6
+432,Var förvaras de brittiska kronjuvelerna?,LOC:other,4,35
+433,Vem var den första personen som nådde nordpolen?,HUM:ind,5,30
+434,Vad är ett magsår?,DESC:def,0,2
+435,Vad är svindel?,DESC:def,0,2
+436,Vad är spirometertestet?,DESC:def,0,2
+437,När är den officiella första sommardagen?,NUM:date,3,39
+438,Vad betyder förkortningen SOS?,ABBR:exp,1,1
+439,Vilken är den minsta fågeln i Storbritannien?,ENTY:animal,2,6
+440,Vem uppfann Trivial Pursuit?,HUM:ind,5,30
+441,Vilka gaser finns i troposfären?,ENTY:substance,2,22
+442,Vilket land har mest vattenföroreningar?,LOC:country,4,33
+443,Vad är det vetenskapliga namnet på en elefant?,ENTY:animal,2,6
+444,"Vem är skådespelerskan känd för sin roll i filmen ""Gypsy""?",HUM:ind,5,30
+445,Vilken ras av jakthund ägde Beverly Hillbillies?,ENTY:animal,2,6
+446,Vad är den regnigaste platsen på jorden?,LOC:other,4,35
+447,Vem var den första afroamerikan som vann Nobelpriset i litteratur?,HUM:ind,5,30
+448,När är St. Patrick's Day?,NUM:date,3,39
+449,Vad hette FDR:s hund?,ENTY:animal,2,6
+450,Vilka färger behöver blandas för att få färgen rosa?,ENTY:color,2,8
+451,Vilken är den mest populära sporten i Japan?,ENTY:sport,2,21
+452,Vad är den aktiva ingrediensen i bakpulver?,ENTY:food,2,13
+453,När föddes Thomas Jefferson?,NUM:date,3,39
+454,Hur kallt ska ett kylskåp vara?,NUM:temp,3,47
+455,När uppfanns telefonen?,NUM:date,3,39
+456,Vad är den vanligaste ögonfärgen?,ENTY:color,2,8
+457,Var var den första golfbanan i USA?,LOC:other,4,35
+458,Vad är schizofreni?,DESC:def,0,2
+459,Vad är angiotensin?,DESC:def,0,2
+460,Vad organiserade Jesse Jackson?,HUM:gr,5,29
+461,Vilken är New Yorks statsfågel?,ENTY:animal,2,6
+462,Vad är nationalparken i Utah?,LOC:other,4,35
+463,Vad är Susan B. Anthony födelsedag?,NUM:date,3,39
+464,I vilken stat skulle du hitta Catskill Mountains?,LOC:state,4,36
+465,Vad kallar du ett ord som stavas samma bakåt och framåt?,ENTY:termeq,2,25
+466,Vad är barnläkare?,DESC:def,0,2
+467,"Vilken kedjebutik har sitt huvudkontor i Bentonville, Arkansas?",HUM:gr,5,29
+468,Vad är solceller?,DESC:def,0,2
+469,Vad är sammansatt ränta?,DESC:def,0,2
+470,Vad är kapris?,DESC:def,0,2
+471,Vad är ett antigen?,DESC:def,0,2
+472,Vilken valuta använder Luxemburg?,ENTY:currency,2,10
+473,Vad är befolkningen i Venezuela?,NUM:other,3,43
+474,Vilken typ av polymer används för skottsäkra västar?,ENTY:other,2,17
+475,Vilken valuta använder Argentina?,ENTY:currency,2,10
+476,Vad är en termometer?,DESC:def,0,2
+477,Vilken kanadensisk stad har den största befolkningen?,LOC:city,4,32
+478,Vilken färg har syrsor?,ENTY:color,2,8
+479,Vilket land gav New York Frihetsgudinnan?,LOC:country,4,33
+480,Vad hette den första amerikanska satelliten som skickades ut i rymden?,ENTY:product,2,19
+481,Vilken ädelsten är en form av rent kol?,ENTY:substance,2,22
+482,Vilken typ av gas finns i en lysrör?,ENTY:substance,2,22
+483,Vad är reumatoid artrit?,DESC:def,0,2
+484,"Vilken flod rinner genom Rowe, Italien?",LOC:other,4,35
+485,Vad är cerebral pares?,DESC:def,0,2
+486,"Vilken stad är också känd som ""Gateway to the West""?",LOC:city,4,32
+487,Hur långt borta är månen?,NUM:dist,3,40
+488,Vad är källan till naturgas?,ENTY:other,2,17
+489,I vilken rymdfarkost gjorde den amerikanska astronauten Alan Shepard sin historiska flygning år 1961?,ENTY:veh,2,26
+490,Vad är pektin?,DESC:def,0,2
+491,Vad är biodiversitet?,DESC:def,0,2
+492,Vad är det enklaste sättet att ta bort tapeter?,ENTY:techmeth,2,24
+493,Vilket år började Titanic på sin resa?,NUM:date,3,39
+494,Hur mycket av ett äpple är vatten?,NUM:count,3,38
+495,Vem var USA:s 22:a president?,HUM:ind,5,30
+496,Vad är valutan de använder i Zambia?,ENTY:currency,2,10
+497,Hur många fot på en mil?,NUM:count,3,38
+498,Vad är födelsestenen för oktober?,ENTY:substance,2,22
+499,Vad är e-coli?,DESC:def,0,2
